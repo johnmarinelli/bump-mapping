@@ -1,0 +1,5 @@
+xcode/*
+resources
+!resources/bumpmapping.fs.glsl
+!resources/bumpmapping.vs.glsl
+.DS_Store
